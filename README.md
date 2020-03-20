@@ -30,7 +30,7 @@ Now, based on where you stand today, pick the topics most relevant to you from b
 
 #### Module 1 | Data Fundamentals
 * <a href="https://colab.research.google.com/github/mentorskool/Welcome/blob/master/learnbooks/breaking-the-ice.ipynb" target="_blank">Introduction</a> - Talks about the what, why and how at a high level. Good starting point!
-	* Take a <a href="https://forms.gle/dwbov7AyKmmrbABv8" target="_blank">quiz</a>
+	* <a href="https://forms.gle/dwbov7AyKmmrbABv8" target="_blank">MentorQuizz-01</a>
 
 <br>
 
