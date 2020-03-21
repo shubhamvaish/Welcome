@@ -28,10 +28,15 @@ Now, based on where you stand today, pick the topics most relevant to you from b
 (**Note :** Wherever you start, it is suggested that you cover the topics in the **Data Fundamentals** section at least!)
 <br>
 
+#### Funlearn | Quiz
+* <a href="https://forms.gle/HDYnohjVAzxZKoY66" target="_blank">Quiz-01</a>
+* <a href="https://forms.gle/HDYnohjVAzxZKoY66" target="_blank">Quiz-02</a>
+
+<br>
+
 #### Module 1 | Data Fundamentals
 * <a href="https://colab.research.google.com/github/mentorskool/Welcome/blob/master/learnbooks/breaking-the-ice.ipynb" target="_blank">Introduction</a> - Talks about the what, why and how at a high level. Good starting point!
-	* <a href="https://forms.gle/HDYnohjVAzxZKoY66" target="_blank">MentorQuizz-01</a>
-	* <a href="https://forms.gle/Df9MnwJgqcV6tVyv7" target="_blank">MentorQuizz-02</a>
+
 
 <br>
 
