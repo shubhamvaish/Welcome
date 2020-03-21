@@ -23,6 +23,7 @@ I welcome all you **self-driven learners** to my open learning initiative as we 
 
 
 ### Funlearn | Quiz
+--------------------
 Whether you are starting in Data Analytics or are already on board, quizzes are always fun to take. Don't think about score, think about your takeaway from each. Here we go :
 * <a href="https://forms.gle/HDYnohjVAzxZKoY66" target="_blank">Quiz-01</a>
 * <a href="https://forms.gle/YqdMokCSUmDd7dXh7" target="_blank">Quiz-02</a>
