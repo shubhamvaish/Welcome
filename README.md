@@ -21,21 +21,30 @@ I welcome all you **self-driven learners** to my open learning initiative as we 
 <img src="https://github.com/mentorskool/Welcome/blob/master/imgs/power-bi.png?raw=true" width="100" height="100">
 <img src="https://github.com/mentorskool/Welcome/blob/master/imgs/python.jpg?raw=true" width="100" height="100">
 
-### List of Topics : 
+
+### Funlearn | Quiz
+Whether you are starting in Data Analytics or are already on board, quizzes are always fun to take. Don't think about score, think about your takeaway from each. Here we go :
+* <a href="https://forms.gle/HDYnohjVAzxZKoY66" target="_blank">Quiz-01</a>
+* <a href="https://forms.gle/HDYnohjVAzxZKoY66" target="_blank">Quiz-02</a>
+
+
+
+### Classroom : 
 ---------------------
 By now, you would have already seen the holistic list of skill sets a **Full Stack Data Scientist** is expected to have. (Check <a href="https://github.com/mentorskool/Welcome/blob/master/docs/learning-paths.pdf" target="_blank">**here**</a>) <br>
 Now, based on where you stand today, pick the topics most relevant to you from below : <br>
 (**Note :** Wherever you start, it is suggested that you cover the topics in the **Data Fundamentals** section at least!)
-<br>
-
-#### Funlearn | Quiz
-* <a href="https://forms.gle/HDYnohjVAzxZKoY66" target="_blank">Quiz-01</a>
-* <a href="https://forms.gle/HDYnohjVAzxZKoY66" target="_blank">Quiz-02</a>
-
-<br>
 
 #### Module 1 | Data Fundamentals
 * <a href="https://colab.research.google.com/github/mentorskool/Welcome/blob/master/learnbooks/breaking-the-ice.ipynb" target="_blank">Introduction</a> - Talks about the what, why and how at a high level. Good starting point!
+
+
+
+
+
+<br>
+
+
 
 
 <br>
