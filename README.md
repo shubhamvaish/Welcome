@@ -14,7 +14,7 @@ I welcome all you **self-driven learners** to my open learning initiative as we 
 	* Learning paths available at Mentorskool
 
 
-### Technologies covered : 
+### Technologies covered
 --------------------------
 <img src="https://github.com/mentorskool/Welcome/blob/master/imgs/azure-sql.png?raw=true" width="100" height="100">
 <img src="https://github.com/mentorskool/Welcome/blob/master/imgs/aws.png?raw=true" width="100" height="60">
@@ -30,7 +30,7 @@ Whether you are starting in Data Analytics or are already on board, quizzes are 
 
 
 
-### Classroom : 
+### Classroom
 ---------------------
 By now, you would have already seen the holistic list of skill sets a **Full Stack Data Scientist** is expected to have. (Check <a href="https://github.com/mentorskool/Welcome/blob/master/docs/learning-paths.pdf" target="_blank">**here**</a>) <br>
 Now, based on where you stand today, pick the topics most relevant to you from below : <br>
@@ -40,7 +40,7 @@ Now, based on where you stand today, pick the topics most relevant to you from b
 * <a href="https://colab.research.google.com/github/mentorskool/Welcome/blob/master/learnbooks/breaking-the-ice.ipynb" target="_blank">Introduction</a> - Talks about the what, why and how at a high level. Good starting point!
 
 #### Module 2 | Data Ingestion
-* <a href="https://colab.research.google.com/github/mentorskool/Welcome/blob/master/learnbooks/breaking-the-ice.ipynb" target="_blank">Learn to scrape the web</a> - 'Internet is your database'. To realise the same, its imperative that you know how to fetch any data on a web page using Python
+* <a href="https://colab.research.google.com/github/mentorskool/Welcome/blob/master/learnbooks/02.Data-Ingestion/web-scraping.ipynb" target="_blank">Learn to scrape the web</a> - 'Internet is your database'. To realise the same, its imperative that you know how to fetch any data on a web page using Python
 
 
 
