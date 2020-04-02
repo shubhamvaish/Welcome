@@ -13,7 +13,8 @@ quiz/
 # Executables
 *.gslides
 *.ini
-*.gsheets
+*.gsheet
+*.gdoc
 
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
