@@ -38,6 +38,7 @@ Now, based on where you stand today, pick the topics most relevant to you from b
 
 #### Module 1 | Data Fundamentals
 * <a href="https://colab.research.google.com/github/mentorskool/Welcome/blob/master/learnbooks/breaking-the-ice.ipynb" target="_blank">Introduction</a> - Talks about the what, why and how at a high level. Good starting point!
+* <a href="https://colab.research.google.com/github/mentorskool/Welcome/blob/master/learnbooks/01.Data-Fundamentals/relational-data-modelling.ipynb" target="_blank">Relational Data Modelling</a> - Talks about the what, why and how of entities, relations and data modelling
 
 #### Module 2 | Data Ingestion
 * <a href="https://colab.research.google.com/github/mentorskool/Welcome/blob/master/learnbooks/02.Data-Ingestion/web-scraping.ipynb" target="_blank">Learn to scrape the web</a> - 'Internet is your database'. To realise the same, its imperative that you know how to fetch any data on a web page using Python
